@@ -40,7 +40,6 @@ h2, .nav {
 }
 
 .intro-margin {
-    margin: 70px 0px;
     padding: 120px 0px;
 }
 
@@ -56,13 +55,30 @@ h2, .nav {
 
 /*Outcome/Impact Styling*/
 .outcome-margin {
-    margin: 30px 0px;
+    padding: 30px 0px;
+}
+
+.outcome-color {
+    background-color: #F4E1E1;
 }
 
 /*Page Nav buttons styling*/
+.nav-paragraph {
+    margin-top: 50px;
+    text-align: center;
+}
+
 .btn-info {
     background-color: white;
     border-color: black;
     font-weight: 600;
     margin: 50px 0px;
 }
+
+/*Research styling*/
+
+/*Problem Statement styling*/
+
+/*Iterations styling*/
+
+/*Prototype styling*/
