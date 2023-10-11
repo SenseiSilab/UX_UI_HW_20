@@ -1,3 +1,4 @@
+/*Nav bar styling*/
 .page-header {
     display: flex;
 }
@@ -7,4 +8,33 @@ h2, .nav {
     vertical-align: top;
     margin-top: 0 !important;
 }
+
+.orange {
+    color: orangered;
+}
+
+.black {
+    color: black;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.white {
+    color: white;
+}
+
+.background-black {
+    background-color: black;
+}
+
+/*Introduction of case study styling*/
+.green {
+    color: green;
+}
+
+/*Outcome/Impact Styling*/
+
+/*Page Nav buttons styling*/
 
