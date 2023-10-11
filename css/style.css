@@ -76,7 +76,17 @@ h2, .nav {
 }
 
 /*Research styling*/
+.research-background {
+    background-color: #B4A0A0;
+    border-radius: 8px 8px 0px 0px;
+    margin-top: 80px;
+    padding-top: 50px;
+    padding-bottom: 500px;
+}
 
+.research-paragraph {
+    color: gray;
+}
 /*Problem Statement styling*/
 
 /*Iterations styling*/
