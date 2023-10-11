@@ -15,7 +15,7 @@ h2, .nav {
 }
 
 .orange {
-    color: orangered;
+    color: #FF5E1A;
 }
 
 .black {
@@ -55,8 +55,14 @@ h2, .nav {
 }
 
 /*Outcome/Impact Styling*/
-
-
+.outcome-margin {
+    margin: 30px 0px;
+}
 
 /*Page Nav buttons styling*/
-
+.btn-info {
+    background-color: white;
+    border-color: black;
+    font-weight: 600;
+    margin: 50px 0px;
+}
