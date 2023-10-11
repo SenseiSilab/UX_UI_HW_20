@@ -9,6 +9,11 @@ h2, .nav {
     margin-top: 0 !important;
 }
 
+.nav-margin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .orange {
     color: orangered;
 }
@@ -31,7 +36,7 @@ h2, .nav {
 
 /*Introduction of case study styling*/
 .green {
-    color: green;
+    color: #2BB438;
 }
 
 /*Outcome/Impact Styling*/
