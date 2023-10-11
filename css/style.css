@@ -39,7 +39,24 @@ h2, .nav {
     color: #2BB438;
 }
 
+.intro-margin {
+    margin: 70px 0px;
+    padding: 120px 0px;
+}
+
+.intro-background {
+    background-color: #D1CFCF;
+}
+
+.btn-primary {
+    background-color: #FF5E1A;
+    border-color: #FF5E1A;
+    margin-top: 30px;
+}
+
 /*Outcome/Impact Styling*/
+
+
 
 /*Page Nav buttons styling*/
 
