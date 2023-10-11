@@ -84,10 +84,15 @@ h2, .nav {
     padding-bottom: 500px;
 }
 
-.research-paragraph {
+.gray {
     color: gray;
 }
+
 /*Problem Statement styling*/
+.problem-background {
+    margin-top: 100px; 
+    margin-bottom: 100px;  
+}
 
 /*Iterations styling*/
 
